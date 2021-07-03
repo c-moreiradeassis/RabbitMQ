@@ -1,0 +1,6 @@
+.vs/*
+.vscode/*
+Receive/bin/*
+Receive/obj/*
+Send/bin/*
+Send/obj/*
